@@ -8,7 +8,7 @@
 
 - 📺 Java developer, Python & Scala also ;
 
-- 📄 Focusing on Game Server and Web Server development, like to write some 'useless' tool aswell ;
+- 📄 Focusing on Game Server and Web Server development, like to write some 'useless' stuff aswell ;
 
 - 💬 Contact me: joezane.cn@gmail.com ;
 
