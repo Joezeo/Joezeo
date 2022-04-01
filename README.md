@@ -1,9 +1,9 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=joezeo&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-top: 100px;" />
- 
 ## Hi there 👋
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=joezeo&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; " />
+ 
 
 ***About me***   
 
@@ -13,7 +13,7 @@
 
 - 💬 Contact me: joezane.cn@gmail.com ;
 
-- ⛳ Game lover, amateur guitarlist, ski tyro.
+- ⛳ Game lover, amateur guitarlist, ski tyro ;
 
 - 🔨 Working on repository of <a href="https://github.com/Joezeo/ssh_terminal"> ssh_terminal </a> for now.
 
