@@ -1,13 +1,12 @@
 
 ## Hi there 👋
-<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=joezeo&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; " />
  
 
-***About me***   
+***About me :***   
 
-- 📺 Java developer. Game server and Web server development ;
+- 📺 Java developer, focusing on Game Server and Web Server development ;
 
 - 📄 Prefer to write some 'unuse' tool ;
 
