@@ -10,5 +10,5 @@
 - 📄 Focusing on Game Server and Web Server development, like to write some 'useless' stuff aswell ;
 - 💬 Contact me: joezane.cn@gmail.com ;
 - ⛳ Game lover, amateur guitarlist, ski tyro ;
-- 🔨 Working on the repository of <a href="https://github.com/Joezeo/ssh_terminal"> ssh_terminal </a> for now.
+- 🔨 Working on the projects of <a href="https://github.com/Joezeo/terminatio">terminatio </a> and <a href="https://github.com/Joezeo/terminatio_sdk">terminatio_sdk</a> for now.
 <img src="https://github-profile-trophy.vercel.app/?username=joezeo&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
