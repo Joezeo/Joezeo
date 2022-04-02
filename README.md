@@ -7,7 +7,7 @@
 
 - 📺 Java developer, Python & Scala also ;
 - 📄 Working on Game Server and Web Server development, liking to write some 'useless' stuff aswell ;
-- 🔨 Focusing on the projects of <a href="https://github.com/Joezeo/terminatio">terminatio </a> and <a href="https://github.com/Joezeo/terminatio_sdk">terminatio_sdk</a> for now.  
+- 🔨 Focusing on the projects of <a href="https://github.com/Joezeo/terminatio">terminatio </a> and <a href="https://github.com/Joezeo/terminatio-sdk">terminatio-sdk</a> for now.  
 <!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.cn/injobs/in/joezane)
 -->
