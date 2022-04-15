@@ -5,7 +5,7 @@
 
 ***About me :***   
 
-- 📺 Java developer, Python & Scala also ;
+- 📺 Java developer, Python & C also ;
 - 📄 Working on Game Server and Web Server development, liking to write some 'useless' stuff aswell ;
 - 🔨 Focusing on the projects of <a href="https://github.com/Joezeo/terminatio">terminatio </a> and <a href="https://github.com/Joezeo/terminatio-sdk">terminatio-sdk</a> for now.  
 <!--
