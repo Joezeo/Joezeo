@@ -5,7 +5,7 @@
 
 ***About me :***   
 
-- 📺 Java developer, Python & Go also ;
+- 📺 Java developer, Python & C also ;
 - 📄 Software engineer, liking to write some 'useless' stuff aswell ;
 - 🔨 Focusing on the project of <a href="https://github.com/Joezeo/termio">termio </a> for now.  
 <!--
