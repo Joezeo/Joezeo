@@ -2,9 +2,9 @@
 ## Hi there 👋 
 ***About me :***   
 
-- 📺 Java developer ;
-- 📄 Software engineer, liking to write some 'useless' stuff aswell ;
-- 🔨 Focusing on the project of <a href="https://github.com/Joezeo/termio">termio </a> for now.  
+- Java developer ;
+- Software engineer, liking to write some 'useless' stuff aswell ;
+- Focusing on the project of <a href="https://github.com/Joezeo/termio">termio </a> for now.  
 <!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.cn/injobs/in/joezane)
 -->
